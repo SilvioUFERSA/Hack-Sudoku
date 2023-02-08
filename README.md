@@ -10,4 +10,4 @@ Para usar gere uma tabela sudoku e preencha na função main e compile o program
 for use, put any sudoku table in the main function, then compile the program
 
 
-// projeto futuro: desenvolver o msm projeto utilizando Orientação a Objetos com JAVA
+// projeto futuro: melhorar código e desenvolver o mesmo projeto utilizando Orientação a Objetos com JAVA
